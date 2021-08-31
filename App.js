@@ -14,7 +14,10 @@ import store from './src/store';
 import {setText} from './src/store/app/actions';
 
 const Component = () => {
+  // * get the state
   const appReducer = useSelector(state => state.app);
+
+  // * state action
   const dispatch = useDispatch();
 
   return (
