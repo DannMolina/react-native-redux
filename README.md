@@ -1,4 +1,7 @@
-# react-native-redux
+# This includes the ff:
+ - setup for react-native-redux
+ - creation of actions, constant and reducer
+ - usage of useSelector and useDispatch
  
 # Get started
  - npm install 
