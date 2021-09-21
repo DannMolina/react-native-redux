@@ -7,12 +7,12 @@
  - usage of useSelector and useDispatch
  
 # Get started
- - npm install 
+ $ npm install 
 
 # Run the metro bundler
- - npm start
+ $ npm start
 
 # Run the application
- - npm run android (android)
- - npm run ios(ios)
+ $ npm run android (android)
+ $ npm run ios(ios)
  
