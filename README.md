@@ -1,3 +1,6 @@
+# react-native-redux
+ - Redux usage/implementation on react native project
+ 
 # This includes the ff:
  - setup for react-native-redux
  - creation of actions, constant and reducer
